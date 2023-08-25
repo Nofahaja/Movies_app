@@ -1,0 +1,39 @@
+/* .scrollh1{
+    background-color: #111;
+    color: white;
+    margin-top: 20px;
+} */
+.scroll{
+    margin-left: 20px;
+    color: white;
+    margin-top: 20px;
+    overflow-x: scroll;
+    width:100%;
+    
+}
+.imagesscrolling{
+    display: flex;
+
+    padding: 10px;
+    width: 100%;
+}
+.scroll::-webkit-scrollbar{
+    display: none;
+}
+.scrollimg{
+    max-height: 280px;
+
+    margin-right: 10px;
+    /* overflow-x: scroll; */
+
+}
+
+.tro{
+    display: flex;
+    
+}
+
+.scrollh1{
+    font-size: x-large;
+    margin-left: 20px;
+}

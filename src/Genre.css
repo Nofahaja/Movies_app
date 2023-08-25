@@ -1,0 +1,60 @@
+.Genrediv{
+    background-color:#111;
+}
+.scrolling{
+    margin-left: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.imagesscroll{
+    display: flex;
+    padding: 5px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.imagesscroll::-webkit-scrollbar{
+    display: none;
+}
+/* .scrollimg{
+    max-height: 280px;
+    margin-right: 10px;
+} */
+ .scrollh1{
+    background-color: #111;
+    color: white;
+    margin-top: 20px;
+} 
+.scrolltit{
+margin-left: 10px;
+margin-top: 40px;
+}
+.scrollbac{
+    max-height: 280px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.scrolllan{
+    margin-top: 10px;
+}
+.scrolldat{
+    margin-top: 20px;
+     margin-left: 10px; 
+}
+
+.cls{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.scrollpop{
+    margin-top: 20px;
+     margin-left: 10px; 
+}
+.scrollover{
+    margin-top: 20px;
+    margin-left: 10px; 
+    justify-content: center;
+    
+}
+.overspan  {
+    color: darkgoldenrod;
+}
